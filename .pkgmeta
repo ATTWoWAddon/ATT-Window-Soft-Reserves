@@ -1,4 +1,4 @@
-package-as: ATT-Window-Battle-Pets
+package-as: ATT-Window-Soft-Reserves
 enable-nolib-creation: no
 
 externals:
