@@ -5,6 +5,7 @@
 ## Author: Crieve
 ## X-Curse-Project-ID: 1462633
 ## X-Wago-ID: vNAg7pKo
+## SavedVariables: ATTSoftReserveData
 
 ## Title: ATT-Window: Soft Reserves
 ## Title-esES: ATT-Ventanas: Reserva anticipada
