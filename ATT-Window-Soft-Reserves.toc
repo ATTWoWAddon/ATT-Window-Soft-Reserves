@@ -1,0 +1,35 @@
+## Interface: 11508, 20505, 50503, 120000, 120001
+## Version: @project-version@
+## Dependencies: AllTheThings
+## Group: AllTheThings
+## Author: Crieve
+## X-Curse-Project-ID: 1462633
+## X-Wago-ID: vNAg7pKo
+
+## Title: ATT-Window: Soft Reserves
+## Title-esES: ATT-Ventanas: Reserva anticipada
+## Title-esMX: ATT-Ventanas: Reserva anticipada
+## Title-deDE: ATT-Window: Soft Reserves
+## Title-frFR: ATT-Window: Soft Reserves
+## Title-itIT: ATT-Window: Soft Reserves
+## Title-ptBR: ATT-Window: Soft Reserves
+## Title-koKR: ATT-Window: Soft Reserves
+## Title-ruRU: ATT-Window: Soft Reserves
+## Title-zhCN: ATT-窗口: 软保留
+## Title-zhTW: ATT-窗口: 軟保留
+## Notes: Shows you a window that contains soft reserve preferences and persistence for your raid group and guild.|n|nUsage: /attsr
+## Notes-esES: Shows you a window that contains soft reserve preferences and persistence for your raid group and guild.|n|nUso: /attsr
+## Notes-esMX: Shows you a window that contains soft reserve preferences and persistence for your raid group and guild.|n|nUso: /attsr
+## Notes-deDE: Shows you a window that contains soft reserve preferences and persistence for your raid group and guild.|n|nVerwendung: /attsr
+## Notes-frFR: Shows you a window that contains soft reserve preferences and persistence for your raid group and guild.|n|nUtilisation: /attsr
+## Notes-itIT: Shows you a window that contains soft reserve preferences and persistence for your raid group and guild.|n|nUtilizzo: /attsr
+## Notes-ptBR: Shows you a window that contains soft reserve preferences and persistence for your raid group and guild.|n|nUso: /attsr
+## Notes-koKR: Shows you a window that contains soft reserve preferences and persistence for your raid group and guild.|n|n사용법: /attsr
+## Notes-ruRU: Shows you a window that contains soft reserve preferences and persistence for your raid group and guild.|n|nИспользование: /attsr
+## Notes-zhCN: Shows you a window that contains soft reserve preferences and persistence for your raid group and guild.|n|n用法：/attsr
+## Notes-zhTW: Shows you a window that contains soft reserve preferences and persistence for your raid group and guild.|n|n用法：/attsr
+## IconTexture: Interface/Addons/AllTheThings/assets/Interface_Cosmetic
+## X-Commands: attsr
+## X-Suffix: /attsr
+
+Window - Soft Reserves.lua
