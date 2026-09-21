@@ -52,8 +52,6 @@ end
 local function SendGuildMessage(msg)
 	if IsInGuild() then
 		C_ChatInfo.SendAddonMessage("ATTC", msg, "GUILD");
-	else
-		app.events.CHAT_MSG_ADDON("ATTC", msg, "WHISPER", "player");
 	end
 end
 local function SendResponseMessage(msg, player)
