@@ -746,6 +746,7 @@ CreateSoftReserveUnit = app.ExtendClass("Unit", "SoftReserveUnit", "unit", {
 
 -- Implementation
 app:CreateWindowForAddon(addonName, {
+	SettingsGroup = "Tools",
 	IgnoreQuestUpdates = true,
 	Preload = true,
 	OnCommand = function(self, args, params)
